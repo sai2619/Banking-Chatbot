@@ -1,0 +1,17 @@
+{
+  "accounts": [
+    {
+      "account number": "111111",
+      "name": "chella",
+      "balance": 5000.0,
+      "dues": 0.0
+    },
+    {
+      "acc_no": "654321",
+      "name": "prabhath",
+      "balance": 100.0,
+      "dues": 5.0
+    }
+
+  ]
+}
